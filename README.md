@@ -12,6 +12,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 un editeur de texte
 
 ```
+et une IA
 ```
 
 ### Installation
